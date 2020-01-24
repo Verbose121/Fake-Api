@@ -4,7 +4,7 @@
     "picture": "http://placehold.it/32x32",
     "age": 23,
     "name": "Morse Hodge",
-    "gender": "male",
+    "gender": "male"
   },
   {
     "_id": "5e2ae1235c3af9a192ad97a4",
@@ -18,20 +18,20 @@
     "picture": "http://placehold.it/32x32",
     "age": 21,
     "name": "Mattie Martin",
-    "gender": "female",
+    "gender": "female"
   },
   {
     "_id": "5e2ae123cdb6c8466e97fa62",
     "picture": "http://placehold.it/32x32",
     "age": 22,
     "name": "Solis Banks",
-    "gender": "male",
+    "gender": "male"
   },
   {
     "_id": "5e2ae1237fcafaf7ab0087aa",
     "picture": "http://placehold.it/32x32",
     "age": 38,
     "name": "Rodriguez Collins",
-    "gender": "male",
+    "gender": "male"
   }
 ]
