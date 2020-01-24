@@ -33,19 +33,5 @@
     "age": 38,
     "name": "Rodriguez Collins",
     "gender": "male",
-  },
-  {
-    "_id": "5e2ae1232c1c6b3249af1c4c",
-    "picture": "http://placehold.it/32x32",
-    "age": 31,
-    "name": "Terri Cardenas",
-    "gender": "female",
-  },
-  {
-    "_id": "5e2ae123ca8505536dd4c8aa",
-    "picture": "http://placehold.it/32x32",
-    "age": 24,
-    "name": "Fischer Thompson",
-    "gender": "male",
   }
 ]
